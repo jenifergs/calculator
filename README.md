@@ -6,4 +6,4 @@ Print da aplicação
 <div align="center">
 	<img src="assets/video_AdobeExpress.gif">
 </div>
-![print-adivinhe-a-cor](assets/video_AdobeExpress.gif)
+
