@@ -1,6 +1,6 @@
 # calculator
 Calculadora para cálculos simples
-[Clique aqui para ser redirecionado](https://jenifergs.github.io/project-color-guess/)
+[Clique aqui para ser redirecionado](https://jenifergs.github.io/calculator/)
 
 Print da aplicação 
 <div align="center">
