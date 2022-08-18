@@ -4,6 +4,6 @@ Calculadora para cálculos simples
 
 Print da aplicação 
 <div align="center">
-	<img src="assets/video_AdobeExpress.gif">
+	<img src="./image/video_AdobeExpress.gif">
 </div>
 
