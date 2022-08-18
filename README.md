@@ -6,5 +6,5 @@ Print da aplicação
 <div align="center">
 	<img src="./image/video_AdobeExpress.gif">
 </div>
-![gif-do-projeto](./image/video_AdobeExpress.gif)
+![video_AdobeExpress](./image/video_AdobeExpress.gif)
 
