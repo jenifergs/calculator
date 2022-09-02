@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora para cálculos simples
 <br/>
-Foi usado html, css e javaScript
+Foi feita com Html utilizando tabela afim de praticar o uso, css e javaScript!
 
 [Clique aqui para ser redirecionado](https://jenifergs.github.io/calculator/)
 
